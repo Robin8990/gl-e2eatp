@@ -1,7 +1,5 @@
 #  ************************************************************************
 #  * The following codes is only free for academic use.                   *
-#  *                                                                      *
-#  * If you need it for a commercial use, email Jun Hu (junh_cs@126.com). *
 #  ************************************************************************
 
 import argparse
@@ -663,3 +661,4 @@ if __name__ == '__main__':
             print("The {}/{}-th {} with {} residues is predicted.".format(ind, tot_seq_num, key, len(seq)))
 
     print("Hope the predicted results could help you!")
+
